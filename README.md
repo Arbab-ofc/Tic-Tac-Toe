@@ -1,12 +1,41 @@
-# React + Vite
+🎮 Tic Tac Toe Game (React JS)
+A fun and interactive Tic Tac Toe game built with React JS. This project showcases reusable components, winning logic with a helper function, and a clean UI powered by React Icons.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌐 Live Demo
+🔗 https://tic-tac-toe-eight-lovat-84.vercel.app/
 
-Currently, two official plugins are available:
+✨ Features
+🧑‍🤝‍🧑 2-player interactive gameplay
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Automatic winner and draw detection
 
-## Expanding the ESLint configuration
+🔁 Reset button to restart the game
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📦 Reusable, modular component structure
+
+🧠 Custom helper function to check winning conditions
+
+🖌️ Beautiful X/O icons using React Icons
+
+🧩 Components Used
+📄 Card – Displays each cell (X or O)
+
+🧱 Grid – Holds and arranges all cards in a 3x3 layout
+
+🔣 Icon – Renders X or O using icons from the React Icons library
+
+🧠 Game Logic
+🧮 Helper function:
+
+✔️ Checks for all winning combinations (rows, columns, diagonals)
+
+🤝 Detects draw conditions when board is full
+
+🔄 Displays Reset Game button when game ends
+
+🛠️ Tech Stack
+⚛️ React JS (with Hooks)
+
+🎨 React Icons
+
+💅 CSS / Styled Components
