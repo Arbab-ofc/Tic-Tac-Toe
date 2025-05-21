@@ -4,6 +4,8 @@ A fun and interactive Tic Tac Toe game built with React JS. This project showcas
 🌐 Live Demo
 🔗 https://tic-tac-toe-eight-lovat-84.vercel.app/
 
+![Tic Tac Toe Screenshot](./public/screenshot.png)
+
 ✨ Features
 🧑‍🤝‍🧑 2-player interactive gameplay
 
